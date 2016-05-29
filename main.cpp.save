@@ -1,0 +1,8 @@
+#include <SFML/SFML/Graphics.hpp>
+
+int main()
+{
+    sf::RenderWindow window(sf::VideomMode(1920, 1080, 32), "uboot alpha 0.1", sf::VideoMode::Fullsc);
+    
+    return 0;
+}
